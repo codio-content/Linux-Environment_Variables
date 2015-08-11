@@ -98,6 +98,26 @@
    "content-file": ".guides/content/Environment-variables-8b61.md",
    "chapter": true,
    "reset": []
+  },
+  {
+   "id": "c0a64b8d-3996-d73d-3a0d-bacd620e2968",
+   "title": "Common env. variables",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/New-Section-10-c0a6.md",
+   "chapter": false,
+   "reset": []
+  },
+  {
+   "id": "f3fcf8f1-20ad-9cd3-1da7-92e7516a1ff6",
+   "title": "Overwriting env. variables",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Overwriting-env--variables-f3fc.md",
+   "chapter": false,
+   "reset": []
   }
  ],
  "theme": "light",
