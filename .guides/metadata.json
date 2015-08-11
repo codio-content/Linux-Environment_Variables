@@ -1,0 +1,105 @@
+{
+ "sections": [
+  {
+   "id": "627da9e9-d336-b3f2-b817-9563752f5d4b",
+   "title": "Recap",
+   "files": [
+    {
+     "path": "#terminal: bashtest 7",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels-tree",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Recap-627d.md",
+   "chapter": false,
+   "reset": []
+  },
+  {
+   "id": "b877e6cc-2667-e9c1-417e-d873856ea4d0",
+   "title": "What we'll learn",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/What-we-ll-learn-b877.md",
+   "chapter": false,
+   "reset": []
+  },
+  {
+   "id": "e8d4232e-f1d2-5de9-52a5-babcbb84de17",
+   "title": "Bash variables",
+   "files": [],
+   "layout": "",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Bash-variables-e8d4.md",
+   "chapter": true,
+   "reset": []
+  },
+  {
+   "id": "51c7c95d-a75-b3ac-3ec8-db5e7a9bcf8",
+   "title": "String interpolation",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/String-interpolation-51c7.md",
+   "chapter": false,
+   "reset": []
+  },
+  {
+   "id": "f9cac729-e56-e3bf-1a03-3df2d124c682",
+   "title": "Variables and commands",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Variables-and-commands-f9ca.md",
+   "chapter": false,
+   "reset": []
+  },
+  {
+   "id": "274ce327-4f91-14cc-cd8c-9fe02acc57a4",
+   "title": "Overwritting variables",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Overwritting-variables-274c.md",
+   "chapter": false,
+   "reset": []
+  },
+  {
+   "id": "2a0dd655-6217-aad9-da3a-cfec1b71e9c2",
+   "title": "Challenge: Variables",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Challenge--Variables-2a0d.md",
+   "chapter": false,
+   "reset": []
+  },
+  {
+   "id": "8b618d0c-980-3bce-921-2a2701fa80b",
+   "title": "Environment variables",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "#terminal: cd ~/workspace | clear",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels-tree",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Environment-variables-8b61.md",
+   "chapter": true,
+   "reset": []
+  }
+ ],
+ "theme": "light",
+ "scripts": []
+}
