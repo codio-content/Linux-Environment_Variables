@@ -28,4 +28,4 @@ Or by `exit`ing the current shell session:
 something else $ exit
 ```
 
-Push the __re-connect__ button afterwards.
+Click on the __re-connect__ button afterwards.

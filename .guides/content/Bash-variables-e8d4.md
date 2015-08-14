@@ -1,12 +1,12 @@
 Variables are capable of storing different types of data or _datatypes_ for short. 
 
-These _datatypes_ in _bashscripting_ include __single characters__, __text strings__, __integer numbers__, __booleans__ (true and false values), and __arrays__ (collections of the previous datatypes). 
+These _datatypes_ in _bash scripting_ include __single characters__, __text strings__, __integer numbers__, __booleans__ (true and false values), and __arrays__ (collections of the previous datatypes). 
 
 It is possible to store the _output of a command_ which is most certainly a string as well.
 
 Lets create and return the value of our first variable. 
 
-On your terminal window type and execute the following: 
+In your terminal window type and execute the following: 
 
 ```
 # Note the syntax for the variable name:
@@ -24,7 +24,7 @@ echo $my_var
 
 ### Bash variables syntax
 
-Each programming language has a special syntax for naming and declaring variables.
+Each programming language has a special syntax for naming and declaring variables. 
 
 For the _bash_ language, it's recommended to use `_` underscore characters and lowercase letters for variable names.
 

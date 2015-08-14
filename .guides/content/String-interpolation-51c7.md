@@ -21,10 +21,11 @@ echo $curr_dir
 Our `my_var` variable is still on the computer's memory, we can output the value of a variable that has been already created within another string like this: 
 
 ```
-# Note the use of single and double quotes
+# Note the use of single quotes
 echo '$my_var value is:' $my_var
 ```
 
 ### The order of single and double quotes is important 
 
-When using `' '` single quotes, the value of the `$my_var` variable is interpreted literally.
+When using `' '` single quotes, the `$my_var` is interpreted literally (as a string). 
+The `$my_var` that's outside the single quotes returns it value though.

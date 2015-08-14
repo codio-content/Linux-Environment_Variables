@@ -70,11 +70,73 @@
   },
   {
    "id": "2a0dd655-6217-aad9-da3a-cfec1b71e9c2",
-   "title": "Challenge: Variables",
+   "title": "Challenge",
    "files": [],
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/Challenge--Variables-2a0d.md",
+   "content-file": ".guides/content/Challenge-2a0d.md",
+   "chapter": false,
+   "reset": []
+  },
+  {
+   "id": "843b618-52b1-efbb-3b19-7cb250bec7f2",
+   "title": "Persisting variables",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "#terminal: ",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels-tree",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Persisting-variables-843b.md",
+   "chapter": true,
+   "reset": []
+  },
+  {
+   "id": "2ea0fc31-cfe1-1e0f-3da3-164f40e71365",
+   "title": "Persisting variables: export",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Persisting-variables--export-2ea0.md",
+   "chapter": false,
+   "reset": []
+  },
+  {
+   "id": "9fdfbde0-23b-4b97-c57f-ab5d464be55f",
+   "title": "Applying the export command",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "#terminal: ",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels-tree",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Applying-the-export-command-9fdf.md",
+   "chapter": false,
+   "reset": []
+  },
+  {
+   "id": "85e4e405-7cfb-9495-b868-d590569bd35b",
+   "title": "Challenge",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Challenge-85e4.md",
    "chapter": false,
    "reset": []
   },
@@ -105,7 +167,7 @@
    "files": [],
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/New-Section-10-c0a6.md",
+   "content-file": ".guides/content/Common-env--variables-c0a6.md",
    "chapter": false,
    "reset": []
   },
@@ -118,8 +180,71 @@
    "content-file": ".guides/content/Overwriting-env--variables-f3fc.md",
    "chapter": false,
    "reset": []
+  },
+  {
+   "id": "ff2d1cfe-2f58-6fca-51d2-b2fd2d38ef4e",
+   "title": "Persisting env. variables",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "#terminal: ",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels-tree",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Persisting-env--variables-ff2d.md",
+   "chapter": true,
+   "reset": []
+  },
+  {
+   "id": "b3c7af53-391f-358e-e6bb-55158c807668",
+   "title": "Shell startup files",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Shell-startup-files-b3c7.md",
+   "chapter": false,
+   "reset": []
+  },
+  {
+   "id": "76b8693d-6df-ac6-c6f8-5186e2517b3b",
+   "title": "Bash_profile file",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Bash-profile-file-76b8.md",
+   "chapter": false,
+   "reset": []
+  },
+  {
+   "id": "12a6a2df-faf3-7338-171a-28df902d4c94",
+   "title": "Challenge: Env. variables",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "#terminal: ",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels-tree",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Challenge--Env--variables-12a6.md",
+   "chapter": false,
+   "reset": []
   }
  ],
  "theme": "light",
- "scripts": []
+ "scripts": [],
+ "lexikonTopic": ""
 }
