@@ -3,7 +3,7 @@
 
 bash_history=~/.bash_history
 BASHDIR=/home/codio/workspace/.guides
-check_file=cli-7-1
+check_file=cli-7-2
 hist_file="$BASHDIR/bashtests/$check_file.txt"
 
 echo "$check_file" >> $bash_history
@@ -21,13 +21,13 @@ function test_command {
 	if [[ $COUNT -le $QCOUNT ]]; then
 		case $COUNT in
 			1 )
-				expect_command "export curr_user=\$(whoami)" "Export a variable called 'curr_user' that holds the value of the 'whoami' command"
+				expect_command "env" "Execute the command that displays a list of environment variables"
 				;;
 			2 )
-				expect_command "bash" "Start a new child shell"
+				expect_command "echo \$PWD" "Echo Path to the Working Directory env. variable"
 				;;
 			3 )
-				expect_command "echo \$curr_user" "Echo the curr_user variable on it"
+				expect_command "export CONFIG_DIR=/home/codio/workspace/config" "Export a CONFIG_DIR variable with absolute path to the config directory"
 				;;
 		esac
 	else 

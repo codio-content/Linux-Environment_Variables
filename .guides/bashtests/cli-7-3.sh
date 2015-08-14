@@ -3,7 +3,7 @@
 
 bash_history=~/.bash_history
 BASHDIR=/home/codio/workspace/.guides
-check_file=cli-7-1
+check_file=cli-7-2
 hist_file="$BASHDIR/bashtests/$check_file.txt"
 
 echo "$check_file" >> $bash_history
@@ -21,13 +21,13 @@ function test_command {
 	if [[ $COUNT -le $QCOUNT ]]; then
 		case $COUNT in
 			1 )
-				expect_command "export curr_user=\$(whoami)" "Export a variable called 'curr_user' that holds the value of the 'whoami' command"
+				expect_command "echo \$PATH" "Echo the PATH variable"
 				;;
 			2 )
-				expect_command "bash" "Start a new child shell"
+				expect_command "PATH=\$PATH:/home/codio/workspace/config" "Append the absolute path to the ~/workspace/config directory to the PATH variable"
 				;;
 			3 )
-				expect_command "echo \$curr_user" "Echo the curr_user variable on it"
+				expect_commands "Create a 'll' alias" "alias ll=\"ls -alh\"" "alias ll=\"ls -lah\"" "alias ll=\"ls -lha\"" "alias ll=\"ls -hla\"" "alias ll=\"ls -hal\""
 				;;
 		esac
 	else 

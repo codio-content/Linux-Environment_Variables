@@ -5,7 +5,7 @@
    "title": "Recap",
    "files": [
     {
-     "path": "#terminal: bashtest 7",
+     "path": "#terminal: bashtest 7 | clear",
      "panel": 0,
      "action": "open"
     }
@@ -182,6 +182,27 @@
    "reset": []
   },
   {
+   "id": "12a6a2df-faf3-7338-171a-28df902d4c94",
+   "title": "Challenge",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "#terminal: ",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels-tree",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Challenge-12a6.md",
+   "chapter": false,
+   "reset": []
+  },
+  {
    "id": "ff2d1cfe-2f58-6fca-51d2-b2fd2d38ef4e",
    "title": "Persisting env. variables",
    "files": [
@@ -223,8 +244,18 @@
    "reset": []
   },
   {
-   "id": "12a6a2df-faf3-7338-171a-28df902d4c94",
-   "title": "Challenge: Env. variables",
+   "id": "e6c6915d-2373-d568-2c70-f2d6e82d5424",
+   "title": "Challenge",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Challenge-e6c6.md",
+   "chapter": false,
+   "reset": []
+  },
+  {
+   "id": "f530a6ab-a2ee-441e-a5b7-515f1e69dd81",
+   "title": "Linux PATH variable",
    "files": [
     {
      "path": "#tabs",
@@ -236,10 +267,51 @@
      "action": "open"
     }
    ],
-   "layout": "2-panels-tree",
+   "layout": "",
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/Challenge--Env--variables-12a6.md",
+   "content-file": ".guides/content/Linux-PATH-variable-f530.md",
+   "chapter": true,
+   "reset": []
+  },
+  {
+   "id": "d8cbb652-fee0-f668-96ce-644e97014406",
+   "title": "Command aliases",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "#terminal: ",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Command-aliases-d8cb.md",
+   "chapter": true,
+   "reset": []
+  },
+  {
+   "id": "dc8d6285-efd3-d9c4-6c32-65654d2abff1",
+   "title": "More complex aliases",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/New-Section-23-dc8d.md",
+   "chapter": false,
+   "reset": []
+  },
+  {
+   "id": "5af55cd-eda6-98ee-ba5-48f97432ad8f",
+   "title": "Challenge",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Challenge-5af5.md",
    "chapter": false,
    "reset": []
   }
