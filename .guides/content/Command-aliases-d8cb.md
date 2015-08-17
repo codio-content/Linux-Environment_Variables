@@ -4,7 +4,7 @@ As our commands knowledge gets wider, we need some way to synthesize or shorten 
 
 The `alias` command allows us to create custom character combinations that work as a reference to pre-defined commands.
 
-Lets create our first alias. 
+Let's create our first alias. 
 This alias is going to be a shortcut for entering the `config` directory:
 
 ```

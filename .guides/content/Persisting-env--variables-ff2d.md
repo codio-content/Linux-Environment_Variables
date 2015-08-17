@@ -6,7 +6,7 @@ When you start a new _child shell_, it is assigned a different prompt display.
 
 __Where does its display configuration come from?__
 
-Lets export the value of the `PS1` prompt variable for a child shell:
+Let's export the value of the `PS1` prompt variable for a child shell:
 
 ```
 codio ~/workspace $ export PS1="keep the prompt $ "

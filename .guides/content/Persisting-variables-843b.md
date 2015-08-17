@@ -2,7 +2,7 @@ When you switched to this _Persisting variables_ section the terminal window was
 
 Whenever you login to or start a new Linux shell a new bash session is created without any of the processes or variables of previous or different sessions. __Unless you `export` them__. 
 
-Lets exemplify this concept by creating another `bash` _children session_ in the same terminal window:
+Let's exemplify this concept by creating another `bash` _children session_ in the same terminal window:
 
 ```
 codio ~/workspace $ bash

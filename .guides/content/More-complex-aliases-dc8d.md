@@ -1,6 +1,6 @@
 We can combine _command aliases_ with pre-existing variables as well as to work with other command options.
 
-Lets create a command alias that lists the path to the current working directory file permissions using its `PWD` environment variable:
+Let's create a command alias that lists the path to the current working directory file permissions using its `PWD` environment variable:
 
 ```
 alias lspwd="ls -l $PWD"

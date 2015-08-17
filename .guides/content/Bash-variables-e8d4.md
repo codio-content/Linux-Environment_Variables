@@ -4,7 +4,7 @@ These _datatypes_ in _bash scripting_ include __single characters__, __text stri
 
 It is possible to store the _output of a command_ which is most certainly a string as well.
 
-Lets create and return the value of our first variable. 
+Let's create and return the value of our first variable. 
 
 In your terminal window type and execute the following: 
 

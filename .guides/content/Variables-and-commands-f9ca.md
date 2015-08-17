@@ -9,7 +9,7 @@ codio ~/workspace $ $my_var
 
 Because variable values are interpreted this way, we can use these values to store other useful strings such as __paths__ to other directories and use them as a shortcut.
 
-Lets create an absolute path shortcut stored in a variable for later use with the `cd` command:
+Let's create an absolute path shortcut stored in a variable for later use with the `cd` command:
 
 ```
 # TIP: Use your tab autocompletion skills

@@ -4,7 +4,7 @@ If you think about it, most of the commands we've learned so far return text str
 
 These results can be stored in a variable by using the `$(command)` syntax.
 
-Lets store our _current working directory_ absolute path inside a variable: 
+Let's store our _current working directory_ absolute path inside a variable: 
 
 ```
 curr_dir="The current working directory is: $(pwd)"

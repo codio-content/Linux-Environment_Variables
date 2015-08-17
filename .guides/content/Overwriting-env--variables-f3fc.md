@@ -6,7 +6,7 @@ It does, however, the `PS1` variable has backslash-escaped special characters ca
 - `\w` - the current working directory, with `$HOME` abbreviated with a tilde
 - `$`--- the `$` dollar character is commonly used for Unix/Linux prompts
 
-Lets override the `PS1` current value, `\u \w $`, to something else.
+Let's override the `PS1` current value, `\u \w $`, to something else.
 
 In your terminal execute:
 

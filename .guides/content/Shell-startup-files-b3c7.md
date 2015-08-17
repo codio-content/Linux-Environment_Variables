@@ -32,4 +32,4 @@ export PS1="\u \w $ "
 And start a new _shell_ with the `bash` command, the prompt should keep this configuration as the `.bashrc` is run on the _bash_ process creation.
 
 ---
-Lets understand the `.bash_profile` file behaviour in the next section.
+Let's understand the `.bash_profile` file behaviour in the next section.

@@ -1,4 +1,4 @@
-Lets `export` a new variable on the _current bash session_:
+Let's `export` a new variable on the _current bash session_:
 
 ```
 codio ~/workspace $ export sum="5 plus 5 is: $(( 5 + 5 ))"

@@ -1,6 +1,6 @@
 When you login to your computer (type username and password) or via the CLI, the `.bash_profile` is executed to configure your shell before the initial command prompt.
 
-Lets take a look to the current `~/.bash_profile` content and understand some of the variable definitions and its purpose:
+Let's take a look to the current `~/.bash_profile` content and understand some of the variable definitions and its purpose:
 
 ```
 # Execute the `cat` command:

@@ -1,6 +1,6 @@
 Existing variables can be replaced with new values just by assigning the new value to its name.
 
-Lets create a variable that points to the `~/workspace` directory: 
+Let's create a variable that points to the `~/workspace` directory: 
 
 ```
 workspace=/home/codio/workspace
