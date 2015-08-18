@@ -4,7 +4,7 @@ It does, however, the `PS1` variable has backslash-escaped special characters ca
 
 - `\u` - the username of the current user
 - `\w` - the current working directory, with `$HOME` abbreviated with a tilde
-- `$`--- the `$` dollar character is commonly used for Unix/Linux prompts
+- `$` -- the `$` dollar character is commonly used for Unix/Linux prompts
 
 Let's override the `PS1` current value, `\u \w $`, to something else.
 

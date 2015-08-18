@@ -26,8 +26,7 @@ To check whether a command is an alias or not execute:
 type <command_name>
 ```
 
-Say the `ls` charatcer combination has been defined as an alias: `alias ls="ls -a"`. 
-It is possible to execute the command in its original form by doing: 
+If the `ls` character combination has been defined as an alias: `alias ls="ls -a"`, it is possible to execute the command in its original form by doing:
 
 ```
 \ls

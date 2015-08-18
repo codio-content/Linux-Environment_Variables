@@ -1,4 +1,4 @@
-Now that we have a new `$workspace` variable that holds the path to the `~/workspace` directory, lets `exit` the _current bash session_:
+Now that we have a new `$workspace` variable that holds the path to the `~/workspace` directory, let's `exit` the _current bash session_:
 
 ```
 codio@bamboo-marvin:~/workspace$ exit

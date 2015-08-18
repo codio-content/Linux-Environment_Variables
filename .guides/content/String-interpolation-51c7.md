@@ -18,7 +18,7 @@ echo $curr_dir
 
 ### Simple variable values interpolation
 
-Our `my_var` variable is still on the computer's memory, we can output the value of a variable that has been already created within another string like this: 
+Our `my_var` variable is still in the computer's memory, we can output the value of a variable that has been already created within another string like this: 
 
 ```
 # Note the use of single quotes

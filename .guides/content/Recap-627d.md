@@ -6,7 +6,7 @@ The `PID` or _process identification number_ allows us to catch any _Running_, _
 
 _Running_ processes are being executed on the __foreground__. This means that the terminal is going to be blocked until this _foreground process_ finishes its execution.
 
-_Sleeping_ processes won't interrupt the terminal nor they are going to take much CPU or Memory power. 
+_Sleeping_ processes won’t interrupt the terminal nor are they going to take much CPU or Memory power.
 
 It's important to aknowledge that _Sleeping_ processes are not background processes. __Background processes__ are programs that are running without interrupting or blocking the current terminal window and can be invoked by adding an `&` symbol at the end of the command line. 
 
