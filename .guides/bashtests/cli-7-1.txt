@@ -1,10 +1,6 @@
 cli-7-1
-/home/codio/workspace/.guides/bashtests/cli-7-1.sh
-cli-7-1
 export curr_user=$(whoami)
-echo $curr_user
 cli-7-1
-cli-7-1
-exit
 bash
+echo $curr_user
 cli-7-1

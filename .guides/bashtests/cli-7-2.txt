@@ -1,7 +1,14 @@
 cli-7-2
+env
+cli-7-2
+echo $PWD
+cli-7-2
+export CONFIG_DIR=/home/codio/workspace/config
+cli-7-2
+cli-7-2
 echo $PATH
 cli-7-2
 PATH=$PATH:/home/codio/workspace/config
 cli-7-2
-alias ll="ls -hal"
+alias ll="ls -alh"
 cli-7-2
