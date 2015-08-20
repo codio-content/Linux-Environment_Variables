@@ -1,6 +1,11 @@
 cli-7-1
 export curr_user=$(whoami)
 cli-7-1
-bash
+cat /home/codio/.bash_history
+cat /home/codio/.bash_history
 echo $curr_user
+cat /home/codio/.bash_history
+bash
+cat /home/codio/.bash_history
+cli-7-1
 cli-7-1

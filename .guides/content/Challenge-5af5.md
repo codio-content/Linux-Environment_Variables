@@ -5,6 +5,6 @@
 
 1. `echo $PATH`
 2. `PATH=$PATH:/home/codio/workspace/config`
-3. `alias ll="ls -alh"` -or- `alias ll="ls -lah"` -or- `alias ll="ls -lha"` -or- `alias ll="ls -hla"` -or `alias ll="ls -hal"`
+3. `alias ll="ls -alh"` (the order of the `-alh` options is not important)
 
 |||

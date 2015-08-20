@@ -13,7 +13,7 @@ find "$hist_file" -type f -exec sed -i "s@~@$HOME@g" {} \;
 # Must match for erasing history
 RES_HIST=0
 COUNT=0
-QCOUNT=3
+QCOUNT=2
 
 # Run test
 function test_command {
@@ -24,9 +24,6 @@ function test_command {
 				expect_command "export curr_user=\$(whoami)" "Export a variable called 'curr_user' that holds the value of the 'whoami' command"
 				;;
 			2 )
-				expect_command "bash" "Start a new child shell"
-				;;
-			3 )
 				expect_command "echo \$curr_user" "Echo the curr_user variable on it"
 				;;
 		esac
