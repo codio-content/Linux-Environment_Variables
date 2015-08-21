@@ -314,6 +314,16 @@
    "content-file": ".guides/content/Challenge-5af5.md",
    "chapter": false,
    "reset": []
+  },
+  {
+   "id": "11c72958-d8b4-60b7-d440-ce1b2bfe93d8",
+   "title": "That's all folks",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/New-Section-24-11c7.md",
+   "chapter": false,
+   "reset": []
   }
  ],
  "theme": "light",
