@@ -16,7 +16,7 @@ What is meant to be stored in the `.bashrc` file?
 
 For different environments and operating systems, hidden files that end with the `rc` characters are __executed for interactive non-login shells.__
 
-#### What is an interative non-login shell?
+#### What is an interactive non-login shell?
 
 If you’ve already logged into your machine and open a new terminal window, then `.bashrc` is executed before the first command prompt.
 
