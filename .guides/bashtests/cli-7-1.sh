@@ -1,5 +1,5 @@
 #!/bin/bash
-# echo test
+. ~/workspace/.guides/bashtests/function.sh
 
 bash_history=~/.bash_history
 BASHDIR=/home/codio/workspace/.guides
@@ -27,7 +27,7 @@ function test_command {
 				expect_command "echo \$curr_user" "Echo the curr_user variable on it"
 				;;
 		esac
-	else 
+	else
     echo "Well done!"
 		return 0
 	fi

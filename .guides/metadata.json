@@ -5,7 +5,7 @@
    "title": "Recap",
    "files": [
     {
-     "path": "#terminal: bashtest 7 | clear",
+     "path": "#terminal: . .guides/bashtests/init.sh ; clear",
      "panel": 0,
      "action": "open"
     }
@@ -87,7 +87,7 @@
      "action": "close"
     },
     {
-     "path": "#terminal: ",
+     "path": "#terminal: . .guides/bashtests/init.sh ; clear",
      "panel": 0,
      "action": "open"
     }
@@ -118,7 +118,7 @@
      "action": "close"
     },
     {
-     "path": "#terminal: ",
+     "path": "#terminal: . .guides/bashtests/init.sh ; clear",
      "panel": 0,
      "action": "open"
     }
@@ -149,7 +149,7 @@
      "action": "close"
     },
     {
-     "path": "#terminal: cd ~/workspace | clear",
+     "path": "#terminal: . .guides/bashtests/init.sh ; cd ~/workspace ; clear",
      "panel": 0,
      "action": "open"
     }
@@ -190,7 +190,7 @@
      "action": "close"
     },
     {
-     "path": "#terminal: ",
+     "path": "#terminal: . .guides/bashtests/init.sh ; clear",
      "panel": 0,
      "action": "open"
     }
@@ -211,7 +211,7 @@
      "action": "close"
     },
     {
-     "path": "#terminal: clear",
+     "path": "#terminal: . .guides/bashtests/init.sh ; clear",
      "panel": 0,
      "action": "open"
     }
@@ -262,7 +262,7 @@
      "action": "close"
     },
     {
-     "path": "#terminal: ",
+     "path": "#terminal: . .guides/bashtests/init.sh ; clear ",
      "panel": 0,
      "action": "open"
     }
@@ -283,7 +283,7 @@
      "action": "close"
     },
     {
-     "path": "#terminal: ",
+     "path": "#terminal: . .guides/bashtests/init.sh ; clear",
      "panel": 0,
      "action": "open"
     }

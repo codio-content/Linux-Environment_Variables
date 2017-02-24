@@ -1,9 +1,0 @@
-cli-7-2
-echo $PATH
-PATH=$PATH:/home/codio/workspace/config
-alias ll="ls -alh"` -or- `alias ll="ls -lah"` -or- `alias ll="ls -lha"` -or- `alias ll="ls -hla"` -or `alias ll="ls -hal
-alias ll="ls -alh"` -or- `alias ll="ls -lah"` -or- `alias ll="ls -lha"` -or- `alias ll="ls -hla"` -or `alias ll="ls -hal"
-alias ll="ls -alh"` -or- `alias ll="ls -lah"` -or- `alias ll="ls -lha"` -or- `alias ll="ls -hla"` -or- `alias ll="ls -hal"
-alias ll="ls -alh"` or `alias ll="ls -lah"` or `alias ll="ls -lha"` or `alias ll="ls -hla"` or `alias ll="ls -hal"
-alias ll="ls -alh"
-cli-7-2

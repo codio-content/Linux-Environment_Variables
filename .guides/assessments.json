@@ -1,0 +1,126 @@
+[
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-1189197482",
+  "source": {
+   "showName": true,
+   "answers": [
+    {
+     "answer": "`txt=\"\\\"$my_var\\\" value is: \" \\\"$my_var\\\"`",
+     "correct": false,
+     "_id": "55ca2be27a6949c43d0b5c3b"
+    },
+    {
+     "correct": true,
+     "answer": "`txt='\"$my_var\" value is: ''\"'$my_var'\"'`",
+     "_id": "55ca2be27a6949c43d0b5c3a"
+    },
+    {
+     "answer": "`txt=\"'$my_var' value is:\" \"$my_var\"`",
+     "correct": false,
+     "_id": "55ca2be27a6949c43d0b5c39"
+    },
+    {
+     "answer": "`txt='\"$my_var\" value is:''\"'$my_var'\"'`",
+     "correct": false,
+     "_id": "55ca2be27a6949c43d0b5c38"
+    }
+   ],
+   "tokens": {
+    "blank": [],
+    "text": []
+   },
+   "name": "Variables",
+   "instructions": "Please select the correct answer and _Check it!_ to have your answer assessed. If you are wrong, you will see the correct answer highlighted:\n\n#### What code creates the following output:\n\n```\necho $my_var\n\"$my_var\" value is: \"This is my first variable\"\n```",
+   "points": 1,
+   "incorrectPoints": 0,
+   "multipleResponse": false
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-1975521636",
+  "source": {
+   "showName": true,
+   "answers": [
+    {
+     "answer": "`.profile` file",
+     "correct": false,
+     "_id": "55ce3de780f8e32518cc96c2"
+    },
+    {
+     "answer": "`.bash_profile` file",
+     "correct": false,
+     "_id": "55ce3de780f8e32518cc96c1"
+    },
+    {
+     "correct": true,
+     "answer": "`.bashrc` file",
+     "_id": "55ce3de780f8e32518cc96c0"
+    },
+    {
+     "answer": "`.shellrc` file",
+     "correct": false,
+     "_id": "55ce3ea480f8e32518cc96c3"
+    }
+   ],
+   "tokens": {
+    "blank": [],
+    "text": []
+   },
+   "name": "Shell startup files",
+   "instructions": "Please select the correct answer and _Check it!_ to have your answer assessed. If you are wrong, you will see the correct answer highlighted:\n\nYou want to print diagnostic information about your machine (load average, memory usage, current users, etc).\n\n#### If you would like to see it every time you open a new terminal window you'd use the:",
+   "points": 1,
+   "incorrectPoints": 0,
+   "multipleResponse": false
+  }
+ },
+ {
+  "type": "test",
+  "taskId": "test-3363975212",
+  "source": {
+   "showName": true,
+   "answers": [],
+   "tokens": {
+    "blank": [],
+    "text": []
+   },
+   "name": "Environment variables",
+   "instructions": "Test your environment variables comprehension by completing the following tasks:\n\n1. Execute the command that displays a list of environment variables\n2. Echo the env. variable that displays the _Path to the Working Directory_\n3. Export a `CONFIG_DIR` variable that holds an absolute path to the `~/workspace/config` directory\n\n---\nOnce you have completed these tasks press the _Check It_ button to have your solution assessed.",
+   "command": "bash .guides/bashtests/cli-7-2.sh",
+   "points": 1
+  }
+ },
+ {
+  "type": "test",
+  "taskId": "test-3499960501",
+  "source": {
+   "showName": true,
+   "answers": [],
+   "tokens": {
+    "blank": [],
+    "text": []
+   },
+   "name": "PATH and aliases",
+   "instructions": "Complete the following tasks: \n\n1. Echo the `PATH` variable\n2. Append the absolute path to the `~/workspace/config` directory to the `PATH` variable\n3. Create a `ll` alias for listing: hidden files and directories with permission details and human readable file size units\n\n---\nOnce you have completed these tasks press the _Check It_ button to have your solution assessed.",
+   "command": "bash .guides/bashtests/cli-7-3.sh",
+   "points": 1
+  }
+ },
+ {
+  "type": "test",
+  "taskId": "test-4070381068",
+  "source": {
+   "showName": true,
+   "answers": [],
+   "tokens": {
+    "blank": [],
+    "text": []
+   },
+   "name": "Persisting variables",
+   "instructions": "Perform the following tasks:\n\n1. From the parent shell, export a variable called `curr_user` that holds the value of the _current user command_: `whoami`\n2. Start a new _child shell_ and _echo_ the `curr_user` variable on it\n\n---\nOnce you have completed these tasks press the _Check It_ button to have your solution assessed.",
+   "command": "bash .guides/bashtests/cli-7-1.sh",
+   "points": 1
+  }
+ }
+]

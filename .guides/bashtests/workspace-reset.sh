@@ -21,7 +21,6 @@ function reset_workspace {
 
 function reset_challenges {
 	find "${WORKSPACE}.guides/bashtests/" -path "*.txt" -delete
-	# find "${WORKSPACE}/bashtests/" -path "*.txt" -delete
 	echo "Project challenges files have been reseted."
 	sleep 2
 	clear
