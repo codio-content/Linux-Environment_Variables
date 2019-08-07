@@ -1,0 +1,160 @@
+{
+ "name": "Linux-Environment_Variables",
+ "children": [
+  {
+   "title": "Recap",
+   "id": "627da9e9-d336-b3f2-b817-9563752f5d4b",
+   "pageId": "627da9e9-d336-b3f2-b817-9563752f5d4b",
+   "type": "page"
+  },
+  {
+   "title": "What we'll learn",
+   "id": "b877e6cc-2667-e9c1-417e-d873856ea4d0",
+   "pageId": "b877e6cc-2667-e9c1-417e-d873856ea4d0",
+   "type": "page"
+  },
+  {
+   "title": "Bash variables",
+   "id": "e8d4232e-f1d2-5de9-52a5-babcbb84de17",
+   "pageId": "e8d4232e-f1d2-5de9-52a5-babcbb84de17",
+   "type": "chapter",
+   "children": [
+    {
+     "title": "String interpolation",
+     "id": "51c7c95d-a75-b3ac-3ec8-db5e7a9bcf8",
+     "pageId": "51c7c95d-a75-b3ac-3ec8-db5e7a9bcf8",
+     "type": "page"
+    },
+    {
+     "title": "Variables and commands",
+     "id": "f9cac729-e56-e3bf-1a03-3df2d124c682",
+     "pageId": "f9cac729-e56-e3bf-1a03-3df2d124c682",
+     "type": "page"
+    },
+    {
+     "title": "Overwriting variables",
+     "id": "274ce327-4f91-14cc-cd8c-9fe02acc57a4",
+     "pageId": "274ce327-4f91-14cc-cd8c-9fe02acc57a4",
+     "type": "page"
+    },
+    {
+     "title": "Challenge",
+     "id": "2a0dd655-6217-aad9-da3a-cfec1b71e9c2",
+     "pageId": "2a0dd655-6217-aad9-da3a-cfec1b71e9c2",
+     "type": "page"
+    }
+   ]
+  },
+  {
+   "title": "Persisting variables",
+   "id": "843b618-52b1-efbb-3b19-7cb250bec7f2",
+   "pageId": "843b618-52b1-efbb-3b19-7cb250bec7f2",
+   "type": "chapter",
+   "children": [
+    {
+     "title": "Persisting variables: export",
+     "id": "2ea0fc31-cfe1-1e0f-3da3-164f40e71365",
+     "pageId": "2ea0fc31-cfe1-1e0f-3da3-164f40e71365",
+     "type": "page"
+    },
+    {
+     "title": "Applying the export command",
+     "id": "9fdfbde0-23b-4b97-c57f-ab5d464be55f",
+     "pageId": "9fdfbde0-23b-4b97-c57f-ab5d464be55f",
+     "type": "page"
+    },
+    {
+     "title": "Challenge",
+     "id": "85e4e405-7cfb-9495-b868-d590569bd35b",
+     "pageId": "85e4e405-7cfb-9495-b868-d590569bd35b",
+     "type": "page"
+    }
+   ]
+  },
+  {
+   "title": "Environment variables",
+   "id": "8b618d0c-980-3bce-921-2a2701fa80b",
+   "pageId": "8b618d0c-980-3bce-921-2a2701fa80b",
+   "type": "chapter",
+   "children": [
+    {
+     "title": "Common env. variables",
+     "id": "c0a64b8d-3996-d73d-3a0d-bacd620e2968",
+     "pageId": "c0a64b8d-3996-d73d-3a0d-bacd620e2968",
+     "type": "page"
+    },
+    {
+     "title": "Overwriting env. variables",
+     "id": "f3fcf8f1-20ad-9cd3-1da7-92e7516a1ff6",
+     "pageId": "f3fcf8f1-20ad-9cd3-1da7-92e7516a1ff6",
+     "type": "page"
+    },
+    {
+     "title": "Challenge",
+     "id": "12a6a2df-faf3-7338-171a-28df902d4c94",
+     "pageId": "12a6a2df-faf3-7338-171a-28df902d4c94",
+     "type": "page"
+    }
+   ]
+  },
+  {
+   "title": "Persisting env. variables",
+   "id": "ff2d1cfe-2f58-6fca-51d2-b2fd2d38ef4e",
+   "pageId": "ff2d1cfe-2f58-6fca-51d2-b2fd2d38ef4e",
+   "type": "chapter",
+   "children": [
+    {
+     "title": "Shell startup files",
+     "id": "b3c7af53-391f-358e-e6bb-55158c807668",
+     "pageId": "b3c7af53-391f-358e-e6bb-55158c807668",
+     "type": "page"
+    },
+    {
+     "title": "Bash_profile file",
+     "id": "76b8693d-6df-ac6-c6f8-5186e2517b3b",
+     "pageId": "76b8693d-6df-ac6-c6f8-5186e2517b3b",
+     "type": "page"
+    },
+    {
+     "title": "Challenge",
+     "id": "e6c6915d-2373-d568-2c70-f2d6e82d5424",
+     "pageId": "e6c6915d-2373-d568-2c70-f2d6e82d5424",
+     "type": "page"
+    }
+   ]
+  },
+  {
+   "title": "Linux PATH variable",
+   "id": "f530a6ab-a2ee-441e-a5b7-515f1e69dd81",
+   "pageId": "f530a6ab-a2ee-441e-a5b7-515f1e69dd81",
+   "type": "chapter",
+   "children": []
+  },
+  {
+   "title": "Command aliases",
+   "id": "d8cbb652-fee0-f668-96ce-644e97014406",
+   "pageId": "d8cbb652-fee0-f668-96ce-644e97014406",
+   "type": "chapter",
+   "children": [
+    {
+     "title": "More complex aliases",
+     "id": "dc8d6285-efd3-d9c4-6c32-65654d2abff1",
+     "pageId": "dc8d6285-efd3-d9c4-6c32-65654d2abff1",
+     "type": "page"
+    },
+    {
+     "title": "Challenge",
+     "id": "5af55cd-eda6-98ee-ba5-48f97432ad8f",
+     "pageId": "5af55cd-eda6-98ee-ba5-48f97432ad8f",
+     "type": "page"
+    },
+    {
+     "title": "That's all folks",
+     "id": "11c72958-d8b4-60b7-d440-ce1b2bfe93d8",
+     "pageId": "11c72958-d8b4-60b7-d440-ce1b2bfe93d8",
+     "type": "page"
+    }
+   ]
+  }
+ ]
+}
